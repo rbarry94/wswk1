@@ -4,6 +4,4 @@ A few files for cloning.
 
 Hints:
 * Always check the README.md for extra information on how to load, configure and run the code.
-* You can download a zip, or use the git binary or Gitg=hub desktop app to clone the code.
-
- 
+* You can download a zip, or use the git binary or Github desktop app to clone the code.
